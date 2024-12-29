@@ -1,6 +1,6 @@
 # catnet机场官网地址
 
-最新地址：[catnet001.cloud](https://0902.catnet01-c6ti90mq.top/#/register?code=yZh6xMuX)
+最新地址：[catnet001.cloud](https://0902.catnet01-c6ti90mq.top/#/register?code=MnvuUAjJ)
 
 ## 简介
 
@@ -14,11 +14,17 @@ CATNET基于自有专线资源托管服务，总冗余10Gbps，最大可突发10
 
 ## catnet优惠码
 
-即日起至22号（大暑）为止
+双旦优惠来啦！
 
-输入优惠码 sohot
+12/21~01/13
 
-即享年卡8折优惠
+季付5%：1295
+
+半年10%：1290
+
+年卡15%：1285
+
+优惠多多，千万不要错过！
 
 ## 套餐列表
 
